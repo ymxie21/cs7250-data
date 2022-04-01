@@ -1,0 +1,75 @@
+ply
+format binary_little_endian 1.0
+comment VTK generated PLY File
+obj_info vtkPolyData points and polygons: vtk4.0
+element vertex 108
+property float x
+property float y
+property float z
+element face 0
+property list uchar int vertex_indices
+end_header
+®G!@
+×#?ÌÌL>®G!@z.?ÌÌL>®G!@\B?
+×#>®G!@ìQ8?ÌÌL>®G!@\B?ÌÌL>®G!@z.?Âu>R¸@\B?Âu>®G!@\B?Âu>®G!@ÌÌL?
+×#>R¸@ÌÌL?ÌÌL>®G!@ÌÌL?ÌÌL>®G!@>
+W?ÌÌL>®G!@ÌÌL?Âu>R¸@>
+W?Âu>®G!@>
+W?Âu>®G!@®Ga?Âu>®G!@®Ga?(\>
+×#@¸?
+×#>
+×#@¸?ÌÌL>
+×#@(\?
+×#>
+×#@(\?ÌÌL>ff&@(\?ÌÌL>
+×#@š™?ÌÌL>ff&@š™?ÌÌL>
+×#@¸?Âu>ff&@¸?Âu>ff&@(\?Âu>
+×#@š™?Âu>ff&@š™?Âu>Ãõ(@š™?Âu>
+×#@
+×#?ÌÌL>ff&@
+×#?ÌÌL>
+×#@z.?ÌÌL>ff&@z.?ÌÌL>Ãõ(@
+×#?ÌÌL>…+@
+×#?ÌÌL>Ãõ(@z.?ÌÌL>…+@z.?ÌÌL>
+×#@\B?
+×#>
+×#@ìQ8?ÌÌL>ff&@\B?
+×#>ff&@ìQ8?ÌÌL>
+×#@\B?ÌÌL>ff&@\B?ÌÌL>
+×#@
+×#?Âu>ff&@
+×#?Âu>
+×#@z.?Âu>ff&@z.?Âu>ff&@
+×#?(\>ff&@z.?(\>Ãõ(@\B?
+×#>Ãõ(@ìQ8?ÌÌL>…+@ìQ8?ÌÌL>Ãõ(@\B?ÌÌL>…+@\B?ÌÌL>Ãõ(@
+×#?Âu>Ãõ(@z.?Âu>…+@z.?Âu>
+×#@ìQ8?Âu>ff&@ìQ8?Âu>
+×#@\B?Âu>ff&@\B?Âu>ff&@ìQ8?(\>
+×#@\B?(\>ff&@\B?(\>Ãõ(@ìQ8?Âu>…+@ìQ8?Âu>Ãõ(@\B?Âu>Ãõ(@ìQ8?(\>…+@\B?Âu>Ãõ(@\B?(\>
+×#@ÌÌL?
+×#>ff&@ÌÌL?
+×#>
+×#@ÌÌL?ÌÌL>ff&@ÌÌL?ÌÌL>
+×#@>
+W?ÌÌL>ff&@>
+W?ÌÌL>Ãõ(@ÌÌL?
+×#>…+@ÌÌL?
+×#>Ãõ(@ÌÌL?ÌÌL>…+@>
+W?
+×#>…+@ÌÌL?ÌÌL>Ãõ(@>
+W?ÌÌL>…+@>
+W?ÌÌL>
+×#@ÌÌL?Âu>ff&@ÌÌL?Âu>
+×#@>
+W?Âu>
+×#@ÌÌL?(\>ff&@>
+W?Âu>ff&@ÌÌL?(\>
+×#@>
+W?(\>ff&@>
+W?(\>…+@®Ga?ÌÌL>Ãõ(@ÌÌL?Âu>…+@ÌÌL?Âu>Ãõ(@>
+W?Âu>Ãõ(@ÌÌL?(\>…+@>
+W?Âu>Ãõ(@>
+W?(\>
+×#@®Ga?Âu>ff&@®Ga?Âu>
+×#@®Ga?(\>ff&@®Ga?(\>
+×#@…k?(\>Ãõ(@®Ga?Âu>…+@®Ga?Âu>Ãõ(@®Ga?(\>…+@…k?Âu>

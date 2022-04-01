@@ -1,0 +1,26 @@
+ply
+format binary_little_endian 1.0
+comment VTK generated PLY File
+obj_info vtkPolyData points and polygons: vtk4.0
+element vertex 12
+property float x
+property float y
+property float z
+element face 0
+property list uchar int vertex_indices
+end_header
+=
+@z.?░бu>=
+@z.?(\▐>=
+@ЛQ8?░бu>=
+@ЛQ8?(\▐>=
+@z.?
+вё>=
+@z.?ЛQ╦>=
+@ЛQ8?
+вё>=
+@ЛQ8?ЛQ╦>=
+@z.?ллл>=
+@z.?╝GА>=
+@ЛQ8?ллл>=
+@\▐B?▐бu?
